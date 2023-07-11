@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/samgin-shop/static/css/main.30ea52ad.css",
-    "main.js": "/samgin-shop/static/js/main.b3154c5a.js",
-    "static/js/787.8723b9db.chunk.js": "/samgin-shop/static/js/787.8723b9db.chunk.js",
+    "main.css": "/samgin-shop/static/css/main.1c4fd064.css",
+    "main.js": "/samgin-shop/static/js/main.286661cd.js",
+    "static/js/787.b37429d3.chunk.js": "/samgin-shop/static/js/787.b37429d3.chunk.js",
     "index.html": "/samgin-shop/index.html",
-    "main.30ea52ad.css.map": "/samgin-shop/static/css/main.30ea52ad.css.map",
-    "main.b3154c5a.js.map": "/samgin-shop/static/js/main.b3154c5a.js.map",
-    "787.8723b9db.chunk.js.map": "/samgin-shop/static/js/787.8723b9db.chunk.js.map"
+    "main.1c4fd064.css.map": "/samgin-shop/static/css/main.1c4fd064.css.map",
+    "main.286661cd.js.map": "/samgin-shop/static/js/main.286661cd.js.map",
+    "787.b37429d3.chunk.js.map": "/samgin-shop/static/js/787.b37429d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30ea52ad.css",
-    "static/js/main.b3154c5a.js"
+    "static/css/main.1c4fd064.css",
+    "static/js/main.286661cd.js"
   ]
 }
